@@ -1,2 +1,4 @@
 # GitDemo
-Learning git 
+
+Learning git
+new commit
